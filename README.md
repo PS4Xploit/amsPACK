@@ -1,1 +1,1 @@
-# amsPACK-M
+# amsPACK
